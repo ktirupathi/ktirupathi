@@ -2,11 +2,11 @@
 
 # VenkataKiran Tirupathi
 
-**Senior Data Scientist · 10+ Years · Building AI Products that Ship**
+**Senior Data Scientist II @ Hewlett Packard Enterprise · 10+ Years in Data Science & AI**
 
-I design and deploy end-to-end ML systems and AI-powered SaaS products — from multi-agent pipelines and predictive models to production-grade platforms that deliver real business value.
+I design and deploy end-to-end ML systems, AI-powered SaaS products, and marketing analytics platforms — turning complex data into clear business decisions at scale.
 
-`Bangalore, India`
+`📍 Bangalore, India`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatakiran-t/)
 [![X](https://img.shields.io/badge/@Venkatabuilds-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Venkatabuilds)
@@ -18,11 +18,45 @@ I design and deploy end-to-end ML systems and AI-powered SaaS products — from 
 
 ### About Me
 
-Over 10 years in data science, I've moved from building standalone predictive models to architecting full-stack AI products. Today I work at the intersection of **machine learning, multi-agent systems, and SaaS** — designing platforms where AI agents do the heavy lifting and humans make better decisions.
+Over 10 years in data science, I've evolved from building dashboards and running A/B tests to architecting **multi-agent AI platforms** and leading data strategy for enterprise marketing teams. Today I sit at the intersection of **machine learning, marketing analytics, and AI product development** — building systems where AI agents do the heavy lifting and humans make better decisions.
 
 My philosophy: **the best model is the one that ships, scales, and delivers value.**
 
-I also share what I learn through my content channels — follow **@datamavericks** for data science insights and **@Venkatabuilds** for the building journey.
+I share what I learn through my content channels — follow **@datamavericks** for data science insights and **@Venkatabuilds** for the building journey.
+
+---
+
+### 💼 Professional Experience
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+**Senior Data Scientist II** &nbsp;·&nbsp; **Hewlett Packard Enterprise** &nbsp;·&nbsp; May 2023 – Present
+
+Leading projects in Marketing Analytics & Operations Governance at HPE — driving data-driven decision-making, building end-to-end Power BI dashboards for real-time stakeholder insights, managing data pipelines & automation, and spearheading data engineering for migration and acquisition projects. Standardized marketing data governance across teams and automated reporting workflows to cut manual effort significantly.
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+**Analyst – Marketing Analytics** &nbsp;·&nbsp; **Empower Retirement** &nbsp;·&nbsp; Oct 2021 – May 2023
+
+Optimized Tableau dashboards — reducing data analysis time by 30% and boosting dashboard usage by 50%. Built a dynamic PCAP calculator tracker that improved traffic tracking by 40% and cut report prep time by 60%. Implemented marketing channel dashboards to identify top-performing channels for qualified leads.
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+**Senior Data Analyst** &nbsp;·&nbsp; **Intelliswift (An LTTS Company)** &nbsp;·&nbsp; Aug 2020 – Oct 2021
+
+Conducted A/B tests that drove a $500K revenue increase. Managed terabytes of clickstream data using Hive and BigQuery. Led analytics for Voice Search and Dimensional Search Analysis projects, and mentored new team members on KPI generation from database insights.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,44 +111,61 @@ End-to-end pipeline for taking ML models from notebooks to production. Covers CI
 
 ### 🧰 Technical Toolkit
 
-**Languages & Core**&emsp;
+**Languages & Core**
+<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**ML & AI**&emsp;
+**ML & AI**
+<br>
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![Claude API](https://img.shields.io/badge/Claude_API-D4A574?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-FF6B6B?style=flat-square)
 
-**Data & Viz**&emsp;
+**Data & Visualization**
+<br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
 
-**Platform & Infra**&emsp;
+**Analytics & Marketing**
+<br>
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Adobe Analytics](https://img.shields.io/badge/Adobe_Analytics-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+
+**Platform & Infra**
+<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### 🎯 What I Bring to the Table
 
-- **10+ years** turning business problems into production data solutions across domains
-- Building **AI-native SaaS products** with multi-agent architectures (LangGraph + Claude)
-- Full-stack capability — from **ML pipelines to Next.js dashboards** to **Terraform infra**
-- Deep expertise in **predictive modeling, NLP, competitive intelligence, and marketing analytics**
-- Passionate about **mentoring** and sharing knowledge through open source and content
+- **10+ years** turning business problems into production data solutions — from startups to enterprise (HPE)
+- Led **marketing analytics & data governance** for a Fortune 500, building Power BI dashboards and automated data pipelines
+- Building **AI-native SaaS products** with multi-agent architectures (LangGraph + Claude) on nights & weekends
+- Deep expertise in **A/B testing, campaign optimization, clickstream analytics**, and marketing ROI measurement
+- Full-stack capability — from **ML pipelines** to **Next.js dashboards** to **Terraform-managed AWS infra**
+- Passionate about **mentoring** and sharing knowledge through open source and content creation
 
 ---
 
