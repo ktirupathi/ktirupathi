@@ -118,18 +118,6 @@ End-to-end pipeline for taking ML models from notebooks to production. Covers CI
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ktirupathi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktirupathi&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
 ### 💬 Let's Connect
 
 Building something with AI? Need a senior data science perspective? I'm always open to collaborating on impactful projects, discussing ML architecture, or mentoring the next generation of data scientists.
